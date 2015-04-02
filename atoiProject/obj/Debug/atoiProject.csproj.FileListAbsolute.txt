@@ -1,6 +1,0 @@
-H:\Workrelated\VB\TestProjects\atoiProject\atoiProject\bin\Debug\atoiProject.exe.config
-H:\Workrelated\VB\TestProjects\atoiProject\atoiProject\bin\Debug\atoiProject.exe
-H:\Workrelated\VB\TestProjects\atoiProject\atoiProject\bin\Debug\atoiProject.pdb
-H:\Workrelated\VB\TestProjects\atoiProject\atoiProject\obj\Debug\atoiProject.csprojResolveAssemblyReference.cache
-H:\Workrelated\VB\TestProjects\atoiProject\atoiProject\obj\Debug\atoiProject.exe
-H:\Workrelated\VB\TestProjects\atoiProject\atoiProject\obj\Debug\atoiProject.pdb
